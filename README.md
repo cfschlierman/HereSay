@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+<!-- css! -->
+<style>
+body {
+text-align: center;
+background: black
+color: white;
+font-family: Helvetica;
+background-size: cover;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 24px;
+}
+   input[type="submit"]{
+   background: limegreen;
+  color: black;   
+  border: 0;
+  padding: 12px;
+  font-size: 18px;
+}
+}
+}
+</style>
+</head>
+<!-- html! -->
+<body>
+<img src=http://i.stack.imgur.com/QSFeU.png
+<p>HereSay</p>
+<p>You've heard the gossip. Now learn for yourself</p>
+
+<input type="Search" placeholder="Search">
+<input type="submit">
+</body>
+</html> 
